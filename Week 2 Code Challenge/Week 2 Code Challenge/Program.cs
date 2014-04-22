@@ -17,7 +17,7 @@ namespace Week_2_Code_Challenge
             //LetterCounter('i', "I love biscuits and gravy. It's the best breakfast ever.");
             //LetterCounter('n', "Never gonna give you up. Never gonna let you down.");
             //LetterCounter('s', "Sally sells seashells down by the seashore. She's from Sussex.");
-            //TextStats("I'm enjoying code.");
+            TextStats("I'm enjoying code.");
             Console.ReadKey();
         }
 
